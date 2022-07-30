@@ -1,6 +1,6 @@
 # Deterministic behavior of Tensorflow
 
-This code is provided as a support for [this blog post](https://ai-researcher.com/2022/07/30/how-to-perform-repeatable-experiments-with-tensorflow/)
+This code is provided as a support for [this blog post](https://ai-researcher.com/2022/07/30/how-to-perform-repeatable-experiments-with-tensorflow/).
 
 One of the significant drawbacks of Keras and Tensorflow is their non-deterministic behavior. 
 This makes the debugging of the code hard, and the replication of training results impossible. 
